@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,25:f8c8dc,50:e6c8ff,75:c8d9ff,100:ffd6e7&height=230&section=header&text=Anjali%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20student%20%7C%20creative%20coder%20%7C%20dream%20builder&descAlignY=61&descSize=18" alt="Animated pastel header" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=900&color=E88BB5&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%E2%9C%A8+Turning+curiosity+into+beautiful+code+%E2%9C%A8;%F0%9F%8C%B8+Building+with+Python%2C+AI+%26+creativity+%F0%9F%8C%B8;Welcome+to+my+little+corner+of+the+internet+%F0%9F%92%95" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=900&color=E88BB5&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Welcome+to+my+little+corner+of+the+internet+%F0%9F%92%95" alt="Animated typing introduction" />
 
 <img src="https://komarev.com/ghpvc/?username=encrypteduser404&label=visitors&color=e8a3c7&style=for-the-badge" alt="Profile visitors" />
 
