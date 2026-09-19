@@ -1,15 +1,16 @@
-<!-- Extreme Animated Header Banner -->
+<!-- WandaVision Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:FFB7C5,50:FFDDF4,100:FFE4B5&height=300&section=header&text=Welcome%20to%20my%20Space&fontSize=70&fontAlignY=35&animation=twinkling&desc=Anjali%20Gupta%20-%20B.Tech%20CSE%20(AI)%20Student&descAlignY=55&descSize=25&stroke=FFFFFF" width="100%" />
+  <img src="https://media.giphy.com/media/1n4iuWZFnTeN6qvdpD/giphy.gif" alt="Wanda Maximoff Magic" width="550" />
+  <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Anjali+Gupta;B.Tech+CSE+(AI)+Student;Python+Enthusiast;Training+Models+%26+Building+Logic;Creating+the+Future;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E1A2D9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anjali+Gupta;B.Tech+CSE+(AI)+Student;Python+Enthusiast;Training+Models+%26+Building+Logic;Let's+Build+Something+Magical!+✨" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AnjaliGupta-ai/encrypteduser404/main/hearts.svg" width="30"/> About Me
+### 🔮 About Me
 
 I'm an AI engineering student blending data, algorithms, and **Python** to build intelligent systems. I believe in clean code, open-source building, and continuous learning.
 
@@ -20,7 +21,7 @@ I'm an AI engineering student blending data, algorithms, and **Python** to build
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AnjaliGupta-ai/encrypteduser404/main/stars.svg" width="30"/> My Tech Stack
+### 💖 My Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +31,7 @@ I'm an AI engineering student blending data, algorithms, and **Python** to build
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AnjaliGupta-ai/encrypteduser404/main/pawprints.svg" width="30"/> GitHub Analytics
+### ✨ GitHub Analytics
 
 <div align="center">
 
@@ -50,7 +51,7 @@ I'm an AI engineering student blending data, algorithms, and **Python** to build
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AnjaliGupta-ai/encrypteduser404/main/sparkle.svg" width="30"/> Connect with me
+### 📫 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anjali-gupta-107595283/">
