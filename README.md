@@ -14,9 +14,9 @@
 I'm an AI engineering student blending data, algorithms, and **Python** to build intelligent systems. I believe in clean code, open-source building, and continuous learning.
 
 - 🎓 Studying **B.Tech Computer Science & Engineering (AI)**
-- 🐍 Specializing in **Python Programming**, Machine Learning, and Data Analytics
+- 💻 Proficient in **Python, Java, C, C++, HTML, CSS, and JavaScript**
 - 💡 Currently exploring: Deep Learning, Neural Networks, and AI Agents
-- 🚀 Always open to collaborating on AI/ML and Python projects
+- 🚀 Always open to collaborating on AI/ML and programming projects
 
 ---
 
@@ -24,7 +24,7 @@ I'm an AI engineering student blending data, algorithms, and **Python** to build
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,git,github,linux,vscode,bash&theme=dark" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark" alt="Tech Stack"/>
   </a>
 </div>
 
@@ -53,10 +53,7 @@ I'm an AI engineering student blending data, algorithms, and **Python** to build
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/anjali-gupta-107595283">
+  <a href="https://www.linkedin.com/in/anjali-gupta-107595283/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
