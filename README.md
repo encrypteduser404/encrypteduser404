@@ -12,7 +12,7 @@
 
 ---
 
-## 🌷 A little about me
+##  A little about me
 
 Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into thoughtful, useful, and slightly sparkly software. I enjoy learning in public, experimenting with intelligent systems, and making every project feel uniquely mine.
 
