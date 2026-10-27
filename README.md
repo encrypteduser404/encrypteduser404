@@ -30,7 +30,7 @@ Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into th
 
 ---
 
-## 💖 My tech garden
+## My tech garden
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=light" alt="Python, Java, C, C++, HTML, CSS and JavaScript" />
@@ -60,7 +60,7 @@ Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into th
 
 ---
 
-## 💌 Let's connect
+## Let's connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anjali-gupta-107595283/">
