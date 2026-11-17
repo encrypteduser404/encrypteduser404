@@ -28,9 +28,8 @@ Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into th
 - 🧁 I believe clean code and creativity belong together
 - 🌱 Always learning, always building, always chasing the next idea
 
----
 
-## My tech garden
+## My tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=light" alt="Python, Java, C, C++, HTML, CSS and JavaScript" />
