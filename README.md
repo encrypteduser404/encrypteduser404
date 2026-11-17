@@ -44,7 +44,7 @@ Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into th
 
 ---
 
-## 📊 My GitHub in pastel
+## 📊 My GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=encrypteduser404&show_icons=true&hide_border=true&title_color=e88bb5&icon_color=d8a7e8&text_color=8c7180&bg_color=fff7fb" alt="Anjali's GitHub stats" width="48%" />
@@ -56,9 +56,6 @@ Hi, I'm **Anjali** — an AI engineering student who loves turning ideas into th
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encrypteduser404&layout=compact&hide_border=true&title_color=e88bb5&text_color=8c7180&bg_color=fff7fb" alt="Top programming languages" width="42%" />
 </div>
-
----
-
 ## Let's connect
 
 <div align="center">
